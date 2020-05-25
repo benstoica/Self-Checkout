@@ -1,0 +1,13 @@
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\bin\Debug\netcoreapp3.1\Self-Checkout.exe
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\bin\Debug\netcoreapp3.1\Self-Checkout.deps.json
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\bin\Debug\netcoreapp3.1\Self-Checkout.runtimeconfig.json
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\bin\Debug\netcoreapp3.1\Self-Checkout.runtimeconfig.dev.json
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\bin\Debug\netcoreapp3.1\Self-Checkout.dll
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\bin\Debug\netcoreapp3.1\Self-Checkout.pdb
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.csprojAssemblyReference.cache
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.csproj.CoreCompileInputs.cache
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.AssemblyInfoInputs.cache
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.AssemblyInfo.cs
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.dll
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.pdb
+F:\Projects\NumberProblems\NumberProblems\Self-Checkout\obj\Debug\netcoreapp3.1\Self-Checkout.genruntimeconfig.cache
